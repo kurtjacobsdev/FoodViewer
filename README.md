@@ -27,4 +27,4 @@ Linting and source code formatting is done using Swiftlint (https://github.com/r
 
 ## Unit, Integration & Snapshot Testing
 
-Unit Testing is done for each layer in the TestingLayer Swift Package using standard XCTest and the AAA TDD approach. Mocking of network requests is done by using Mocker (https://github.com/WeTransfer/Mocker)
+Unit Testing is done for each layer in the TestingLayer Swift Package using standard XCTest and the AAA TDD approach. Mocking of network requests is done by using Mocker (https://github.com/WeTransfer/Mocker). Snapshots are captured and tested with Swift-Snapshot-Testing (https://github.com/pointfreeco/swift-snapshot-testing).
