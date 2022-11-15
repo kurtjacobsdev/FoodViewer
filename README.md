@@ -13,6 +13,8 @@ GET: /foods/details/:identifier
 
 # Clean ReferenceArchitectureNonModular
 
+https://user-images.githubusercontent.com/1991747/201965391-feba35c8-a9a0-4ac0-b910-ad1f2c962466.mp4
+
 This is a simple application that loads the food list and allows filtering of the food data as well as seeing some details about the specific food. It is used as a reference for setting up an iOS project in a small to medium sized team (5-10 engineers in total organisation).
 
 The application is split into 4 distinct layers and a fifth layer for Unit/Integration/Snapshot testing. These layers are App, Data, Domain and UI (and  CommonUI). The connectedness and the components are depicted in the diagram below and are created using Swift Packages for building the layers as well as managing dependencies.
