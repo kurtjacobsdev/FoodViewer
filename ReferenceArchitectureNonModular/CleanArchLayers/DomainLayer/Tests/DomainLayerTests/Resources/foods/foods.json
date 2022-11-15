@@ -1,0 +1,196 @@
+[{
+        "id": "1",
+        "name": "artichoke",
+        "species": "Cynara scolymus"
+    },
+    {
+        "id": "2",
+        "name": "asparagus",
+        "species": "Asparagus officinalis"
+    },
+    {
+        "id": "3",
+        "name": "basil",
+        "species": "Ocimum basilicum"
+    },
+    {
+        "id": "4",
+        "name": "common bean",
+        "species": "Phaseolus vulgaris"
+    },
+    {
+        "id": "5",
+        "name": "beet",
+        "species": "Cynara scolymus"
+    },
+    {
+        "id": "6",
+        "name": "bell pepper",
+        "species": "Capsicum annuum"
+    },
+    {
+        "id": "7",
+        "name": "broccoli",
+        "species": "Brassica oleracea"
+    },
+    {
+        "id": "8",
+        "name": "brussel sprout",
+        "species": "Brassica oleracea"
+    },
+    {
+        "id": "9",
+        "name": "cabbage",
+        "species": "Brassica oleracea"
+    },
+    {
+        "id": "10",
+        "name": "carrot",
+        "species": "Daucus carota"
+    },
+    {
+        "id": "11",
+        "name": "cauliflower",
+        "species": "Brassica oleracea"
+    },
+    {
+        "id": "12",
+        "name": "celery",
+        "species": "Apium graveolens"
+    },
+    {
+        "id": "13",
+        "name": "chili pepper",
+        "species": "Capsicum annuum"
+    },
+    {
+        "id": "14",
+        "name": "collard green",
+        "species": "Brassica oleracea"
+    },
+    {
+        "id": "15",
+        "name": "cucumber",
+        "species": "Cucumis sativus"
+    },
+    {
+        "id": "16",
+        "name": "eggplant",
+        "species": "Solanum melongena"
+    },
+    {
+        "id": "17",
+        "name": "garlic",
+        "species": "Allium sativum"
+    },
+    {
+        "id": "18",
+        "name": "head lettuce",
+        "species": "Lactuca sativa"
+    },
+    {
+        "id": "19",
+        "name": "kale",
+        "species": "Brassica oleracea"
+    },
+    {
+        "id": "20",
+        "name": "leaf lettuce",
+        "species": "Lactuca sativa"
+    },
+    {
+        "id": "21",
+        "name": "leek",
+        "species": "Allium porrum"
+    },
+    {
+        "id": "22",
+        "name": "mustard",
+        "species": "Brassica juncea"
+    },
+    {
+        "id": "23",
+        "name": "okra",
+        "species": "Abelmoschus esculentus"
+    },
+    {
+        "id": "24",
+        "name": "onion",
+        "species": "Allium cepa"
+    },
+    {
+        "id": "25",
+        "name": "parsley",
+        "species": "Petroselinum crispum"
+    },
+    {
+        "id": "26",
+        "name": "parsnip",
+        "species": "Pastinaca sativa"
+    },
+    {
+        "id": "27",
+        "name": "pea",
+        "species": "Pisum sativum"
+    },
+    {
+        "id": "28",
+        "name": "pole pea",
+        "species": "Pisum sativum"
+    },
+    {
+        "id": "29",
+        "name": "potato",
+        "species": "Solanum tuberosum"
+    },
+    {
+        "id": "30",
+        "name": "pumpkin",
+        "species": "Cucurbita maxima"
+    },
+    {
+        "id": "31",
+        "name": "radish",
+        "species": "Rhaphanus sativus"
+    },
+    {
+        "id": "32",
+        "name": "rhubarb",
+        "species": "Rheum rhabarbarum"
+    },
+    {
+        "id": "33",
+        "name": "shallot",
+        "species": "Allium cepa"
+    },
+    {
+        "id": "34",
+        "name": "spinach",
+        "species": "Cynara scolymus"
+    },
+    {
+        "id": "35",
+        "name": "squash",
+        "species": "Cucurbita moschata"
+    },
+    {
+        "id": "36",
+        "name": "sweet corn",
+        "species": "Zea mays"
+    },
+    {
+        "id": "37",
+        "name": "swiss chard",
+        "species": "Beta vulgaris"
+    },
+    {
+        "id": "38",
+        "name": "tomato",
+        "species": "Lycopersicon esculentum"
+    },
+    {
+        "id": "39",
+        "name": "turnip",
+        "species": "Brassica rapa"
+    }
+]
